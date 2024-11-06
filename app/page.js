@@ -21,6 +21,21 @@ export default function HomePage() {
         <a>Week 5 Assignment</a>
       </Link>
       <br></br>
+      <Link href="/week-6" legacyBehavior>
+        <a>Week 6 Assignment</a>
+      </Link>
+      <br></br>
+      <Link href="/week-7" legacyBehavior>
+        <a>Week 7 Assignment</a>
+      </Link>
+      <br></br>
+      <Link href="/week-7" legacyBehavior>
+        <a>Week 8 Assignment</a>
+      </Link>
+      <br></br>
+      <Link href="/week-7" legacyBehavior>
+        <a>Week 9 Assignment</a>
+      </Link>
     </div>
   );
 }
